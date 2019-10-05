@@ -3,7 +3,7 @@ title: 肥仔
 SEOTitle: 肥仔的博客
 header-img: img/black.jpeg
 email: 2868108923@qq.com
-description: Think Different
+description: 读书苦以乐，心远地自宽。
 keyword: "肥仔, 个人网站, 个人博客, python, pcb, C++, 机器人"
 url: "https://daniao2017.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -96,8 +96,8 @@ sidebar-avatar: /img/rabbit.jpg      # use absolute URL, seeing it's used in bot
 
 
 # Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+#featured-tags: true                     # whether or not using Feature-Tags
+#featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
 
