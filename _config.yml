@@ -1,9 +1,9 @@
 # Site settings
-title: 肥仔
-SEOTitle: 肥仔的博客
-header-img: img/black.jpeg
-email: 2868108923@qq.com
-description: 读书苦以乐，心远地自宽。
+title: '肥仔'
+SEOTitle: '肥仔的博客'
+header-img: 'img/black.jpeg'
+email: '2868108923@qq.com'
+description: '读书苦以乐，心远地自宽。'
 keyword: "肥仔, 个人网站, 个人博客, python, pcb, C++, 机器人"
 url: "https://daniao2017.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
