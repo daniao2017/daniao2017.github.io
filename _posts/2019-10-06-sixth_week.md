@@ -5,7 +5,7 @@ date:       2019-10-06
 author:     肥仔
 catalog: true
 tags:
-    - 第九周
+    - 项目开发
 --- 
 # 第九周
 <font color =Coral>测试了arduino对实时ros的通信，主要是通过serial包来进行通讯。</font>
