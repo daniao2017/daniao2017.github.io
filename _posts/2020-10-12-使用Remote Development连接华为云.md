@@ -1,4 +1,14 @@
+---
+layout:     post
+title:      使用vscode 的remote 远程连接华为云
+date:       2020-10-12
+author:     肥仔
+catalog: true
+tags:
 
+    - 云服务器
+    - 开发环境
+--- 
 ## 使用vscode 的remote 远程连接华为云
 
 ### 前言
