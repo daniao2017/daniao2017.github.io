@@ -43,8 +43,7 @@ docker-compose -v
 
 如下图所示
 
-![在这里插入图片描述](../img/in_post/mqtt.png)
-
+<img src ="https://daniao2017.github.io/img/in_post/mqtt.png">
 
 基本上就是一个mqtt节点,之后则是发送与接收部分。注意`数据格式`即可
 
@@ -52,7 +51,7 @@ docker-compose -v
 
 效果如下,粉丝数过少ing
 
-![在这里插入图片描述](../img/in_post/dash_ui.png)
+<img src ="https://daniao2017.github.io/img/in_post/dash_ui.png">
 
 
 - 注意dashboard是node-red的插件需要自己下载
